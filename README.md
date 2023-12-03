@@ -22,4 +22,3 @@ Features
 -   User-Friendly Interface: We provide a user-friendly interface that allows users to submit reviews for analysis and receive instant feedback on the likelihood of the review being fake.
 
 -   Performance Evaluation: The model's performance is thoroughly evaluated using metrics such as accuracy, precision, recall, and F1-score. This ensures its effectiveness in identifying fake reviews.  
- 
