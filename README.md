@@ -8,7 +8,7 @@ Project Overview
 
 Online reviews play a crucial role in influencing customer decisions. However, the rise of fake reviews has raised concerns about the authenticity of these opinions. This project focuses on building a machine learning model to distinguish between genuine and fake reviews on Flipkart.
 
-Features
+Features 
 --------
 
 -   Data Collection: We gather Flipkart review data from various products and categories to create a diverse and representative dataset.
